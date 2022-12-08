@@ -34,14 +34,15 @@ echo -e '\e[1;33m
 \  /,      /  >.
  \  /,   _/  /.
   \_  /_/   /.
-   \__/_   <    PhisherPrice
-   /<<< \_\_  Happy Hour Playset
+   \__/_   < 
+   /<<< \_\_  
   /,)^>>_._ \ Version 2.5 
   (/   \\ /\\\
        // //```
 ======((`((====\e[1;34m
 '
- echo -e '\e[3;34m Created by "Sir Cryptic"                 
+ echo -e '\e[3;34m Created by "Sir Cryptic"     
+ echo -e '\e[3;34m Distributed by "CPScript" 
 
 \e[0m\e[3;39m
 (1) Recon
@@ -77,14 +78,15 @@ echo -e '\e[1;33m
 \  /,      /  >.
  \  /,   _/  /.
   \_  /_/   /.
-   \__/_   <    PhisherPrice
-   /<<< \_\_  Happy Hour Playset
+   \__/_   < 
+   /<<< \_\_  
   /,)^>>_._ \ Version 2.5 
   (/   \\ /\\\
        // //```
 ======((`((====\e[1;34m
 '
-echo -e '\e[3;34m Created by "Sir Cryptic"                 
+ echo -e '\e[3;34m Created by "Sir Cryptic"     
+ echo -e '\e[3;34m Distributed by "CPScript"                
 
 \e[0m\e[3;39m \e[1;31m
 Recon & Auditing
@@ -672,14 +674,15 @@ echo -e '\e[1;33m
 \  /,      /  >.
  \  /,   _/  /.
   \_  /_/   /.
-   \__/_   <    PhisherPrice
-   /<<< \_\_  Happy Hour Playset
+   \__/_   < 
+   /<<< \_\_  
   /,)^>>_._ \ Version 2.5 
   (/   \\ /\\\
        // //```
 ======((`((====\e[1;34m
 '
- echo -e '\e[3;34m Created by "Sir Cryptic"                 
+ echo -e '\e[3;34m Created by "Sir Cryptic"     
+ echo -e '\e[3;34m Distributed by "CPScript"                 
 
 \e[0m\e[3;39m \e[1;31m
 Cracking / Brute Force
@@ -717,14 +720,15 @@ echo -e '\e[1;33m
 \  /,      /  >.
  \  /,   _/  /.
   \_  /_/   /.
-   \__/_   <    PhisherPrice
-   /<<< \_\_  Happy Hour Playset
+   \__/_   < 
+   /<<< \_\_  
   /,)^>>_._ \ Version 2.5 
   (/   \\ /\\\
        // //```
 ======((`((====\e[1;34m
 '
- echo -e '\e[3;34m Created by "Sir Cryptic"                 
+ echo -e '\e[3;34m Created by "Sir Cryptic"     
+ echo -e '\e[3;34m Distributed by "CPScript"                 
 
 \e[0m\e[3;39m \e[1;31m
 Hydra Brute Force
