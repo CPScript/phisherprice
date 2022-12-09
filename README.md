@@ -62,6 +62,9 @@ There is a light version of this script here -> [S&D aka phisherprice lite ](htt
 
 ### - [ x ] Credits
 
+- ⭐ Distributer , CPScript
+https://github.com/CPScript 
+
 - ⭐ Sir Crypic , phisherprice
 https://github.com/SirCryptic
 
@@ -71,7 +74,7 @@ https://github.com/evict/SSHScan
 
 Version phisherprice RJ<tagname>
   
- # Foot Notes
+ # UPDATE scanner
 > Please Refer To Evicts Repo [Here](https://github.com/evict/SSHScan) to update the ssh scanner
 
 ⛔⚠️ potentially one final update we will see...
