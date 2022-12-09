@@ -71,8 +71,6 @@ https://github.com/SirCryptic
 - ⭐ Evict , ssh scanner
 https://github.com/evict/SSHScan
 
-
-Version phisherprice RJ<tagname>
   
  # UPDATE scanner
 > Please Refer To Evicts Repo [Here](https://github.com/evict/SSHScan) to update the ssh scanner
