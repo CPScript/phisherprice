@@ -15,10 +15,11 @@ There is a light version of this script here -> [S&D aka phisherprice lite ](htt
 - `cd phisherprice`
 -  `sudo bash install.sh`
 
-### **- [ x ] Installing Dependencies**
+### **- [ x ] Install Dependencies**
 - `sudo bash reqs.sh`
+takes 45 minutes to install all :/
 
-**- [ x ] How do i run the script?**
+**- [ x ] run the script?**
 
 -  Type `sudo phisherprice.sh` in any terminal
 
