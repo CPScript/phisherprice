@@ -17,7 +17,7 @@ There is a light version of this script here -> [S&D aka phisherprice lite ](htt
 
 ### **- [ x ] Install Dependencies**
 - `sudo bash reqs.sh`
-takes 45 minutes to install all :/
+ <----takes 45 minutes to install all :(
 
 **- [ x ] run the script?**
 
